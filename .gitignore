@@ -15,6 +15,9 @@ __pycache__/
 # Jupyter checkpoints
 .ipynb_checkpoints/
 
+# Saved models
+models/*.pkl
+*.pkl
 
 # OS/editor junk
 .DS_Store
