@@ -1,0 +1,28 @@
+# Data
+data/
+*.csv
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Saved models
+models/*.pkl
+*.pkl
+
+# OS/editor junk
+.DS_Store
+.vscode/
+.idea/
+
+# Environment variables (if you add any later, e.g. for Streamlit secrets)
+.env
